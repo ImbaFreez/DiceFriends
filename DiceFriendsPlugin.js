@@ -51,8 +51,8 @@ DiceFriendsPlugin = {
 	settings : {
 		'filters' : {
 			'pc' : true,
-			'xbox' : false,
-			'ps3' : false,
+			'xbox' : true,
+			'ps3' : true,
 			'dice' : true,
 			'dev' : true,
 			'dicefriend' : true,
